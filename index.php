@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <link href="https://fonts.googleapis.com/css?family=Montserrat|Ubuntu" rel="stylesheet">
-    <link rel="stylesheet" href="../Home/styles3.css">
+    <link rel="stylesheet" href="styles3.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
@@ -17,7 +17,7 @@
   <body></body>
      
     <div class="img-container">
-      <img src="../images1/little-burrito.jpg" alt="" width="100%" height="100%" style="object-fit: cover">
+      <img src="images1/little-burrito.jpg" alt="" width="100%" height="100%" style="object-fit: cover">
       <div class="img-cont-space">
         <nav class="navbar sticky navbar-expand-lg navbar-transparent bg-transparent">
           <div class="container-fluid">
@@ -68,7 +68,7 @@
     <section class="white-section" id="features">
       <div class = "our-story">
         <div class="first-container">
-          <img class="image" src="../images1/storyimg.jpg" alt="" width="100%" height="100%" style="object-fit: cover;">
+          <img class="image" src="images1/storyimg.jpg" alt="" width="100%" height="100%" style="object-fit: cover;">
         </div>
         <div class="second-container">
           <h1>Our Story</h1>
@@ -92,42 +92,42 @@
         <div class ="sales">
           <div class="card">
             <div class="image1">
-              <image src="../images1/b1.jpg" alt="" width= "100%" height="60%" data-bs-toggle="modal" data-bs-target="#staticBackdrop"></image>
+              <image src="images1/b1.jpg" alt="" width= "100%" height="60%" data-bs-toggle="modal" data-bs-target="#staticBackdrop"></image>
               <h2>Chessy Grilled</h2>
               <p>Life is a lot better with a taste of our chessy grilled</p>
             </div>
           </div>
           <div  class="card">
             <div class="image1">
-              <image src="../images1/b2.jpg" alt="" width= "100%" height="170px" data-bs-toggle="modal" data-bs-target="#staticBackdrop"></image>
+              <image src="images1/b2.jpg" alt="" width= "100%" height="170px" data-bs-toggle="modal" data-bs-target="#staticBackdrop"></image>
               <h2>Crispy Tenders</h2>
               <p>Our crispy tender is tasty and you know it</p> 
             </div>
           </div>
           <div class="card">
             <div class="image1">
-              <image src="../images1/b3.jpg" alt="" width= "100%" height="60%" data-bs-toggle="modal" data-bs-target="#staticBackdrop" ></image>
+              <image src="images1/b3.jpg" alt="" width= "100%" height="60%" data-bs-toggle="modal" data-bs-target="#staticBackdrop" ></image>
               <h2>Spicy Grilled</h2>
               <p>Count the memories  with our spicy grilled</p>
             </div>
           </div>
           <div class="card">
           <div class="image1">
-            <img src="../images1/b4.jpg" alt="" width= "100%" height="60%"  data-bs-toggle="modal" data-bs-target="#staticBackdrop"/>
+            <img src="images1/b4.jpg" alt="" width= "100%" height="60%"  data-bs-toggle="modal" data-bs-target="#staticBackdrop"/>
             <h2>Chessy Italino</h2>
             <p>A burger without cheese is like a hug without squeeze</p>
           </div>
           </div>
           <div class="card">
           <div class="image1">
-            <image src="../images1/burgerx.jpg" alt="" width= "100%" height="60%"data-bs-toggle="modal" data-bs-target="#staticBackdrop"></image>
+            <image src="images1/burgerx.jpg" alt="" width= "100%" height="60%"data-bs-toggle="modal" data-bs-target="#staticBackdrop"></image>
             <h2>Spicy Panner</h2>
             <p>Life is surely better with our spicy panner</p>
           </div>
           </div>
           <div class="card">
           <div class="image1">
-            <image src="../images1/b6.jpg" alt="" width= "100%" height="60%" data-bs-toggle="modal" data-bs-target="#staticBackdrop"></image>
+            <image src="images1/b6.jpg" alt="" width= "100%" height="60%" data-bs-toggle="modal" data-bs-target="#staticBackdrop"></image>
             <h2>Chicken Lollipop</h2>
             <p>With our chicken lollipop life is short to be on a diet</p>
            <!-- <div style= "width: 100%" >
@@ -138,14 +138,14 @@
           </div>
           <div class="card">
           <div class="image1">
-            <image src="../images1/burgerxx.jpg" alt="" width= "100%" height="60%" data-bs-toggle="modal" data-bs-target="#staticBackdrop" ></image>
+            <image src="images1/burgerxx.jpg" alt="" width= "100%" height="60%" data-bs-toggle="modal" data-bs-target="#staticBackdrop" ></image>
             <h2>Chicken Panner</h2>
             <p>Stay healthy and fit and try our chicken panner</p>
         </div>
         </div>
         <div class="card">
         <div class="image1" >
-          <image src="../images1/b10.jpg" alt="" width= "100%" height="60%" data-bs-toggle="modal" data-bs-target="#staticBackdrop"></image>
+          <image src="images1/b10.jpg" alt="" width= "100%" height="60%" data-bs-toggle="modal" data-bs-target="#staticBackdrop"></image>
           <h2>Spicy Panner</h2>
           <p>Have a spicy panner and stay sane</p>
         </div>
@@ -159,7 +159,7 @@
           <p>FAST & FREE DELIVERY </p>
           <button type="button" class="btn btn-outline-light btn-lg btn-ml">ORDER NOW</button>
           <div class="image2">
-            <image src="../images1/xii.png" alt="" width= "100%" height="100%" ></image>
+            <image src="images1/xii.png" alt="" width= "100%" height="100%" ></image>
           </div>
         </div>
         <div class="Orders">
@@ -172,12 +172,12 @@
           <div class="carousel-inner">
             <div class="carousel-item active container-fluid">
               <h2 class="testimonial-text">You've got to give me the recipe for this chicken dish!...</h2>
-              <img class="testimonial-image" src="../images1/lady-img.jpg" alt="dog-profile" >
+              <img class="testimonial-image" src="images1/lady-img.jpg" alt="dog-profile" >
               <!-- <em>Pebbles, New York</em> -->
             </div>
             <div class="carousel-item container-fluid">
               <h2 class="testimonial-text">Wow, this food is amazing! If something tastes better than you expected, you could use the word wow to express your surprise. </h2>
-              <img class="testimonial-image" src="../images1/lady-img.jpg" alt="lady-profile">
+              <img class="testimonial-image" src="images1/lady-img.jpg" alt="lady-profile">
               <!-- <em>Beverly, Illinois</em> -->
             </div>
           </div>
@@ -191,10 +191,10 @@
       </section>
 
       <section class="colored-section" id="press">
-        <img class="press-logo" src="../images1/techcrunch.png" alt="tc-logo">
-        <img class="press-logo" src="../images1/tnw.png" alt="tnw-logo">
-        <img class="press-logo" src="../images1/bizinsider.png" alt="biz-insider-logo">
-        <img class="press-logo" src="../images1/mashable.png" alt="mashable-logo">
+        <img class="press-logo" src="images1/techcrunch.png" alt="tc-logo">
+        <img class="press-logo" src="images1/tnw.png" alt="tnw-logo">
+        <img class="press-logo" src="images1/bizinsider.png" alt="biz-insider-logo">
+        <img class="press-logo" src="images1/mashable.png" alt="mashable-logo">
       </section>
 <!-- 
       <footer>
@@ -270,7 +270,7 @@
             </div>
             <div style="display: flex; flex-flow: row nowrap;" class="modal-body">
               <div>
-                <img src="../images1/b1.jpg" alt="" width= "100%" height="50%" padding="10px  0px 0px 0px">
+                <img src="images1/b1.jpg" alt="" width= "100%" height="50%" padding="10px  0px 0px 0px">
                 <h1>CHESSY ITALINO</h1>
                 <p><b>product Code: </b>1563ABGY788</p> 
                 <p><b class="price" style="color: #FE980F; font-size: 26px; font-weight: bold; " >USD $15.00</b></p> 
