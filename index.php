@@ -55,7 +55,7 @@
 
         <div class="site_title" >
           <div>
-            <h1>Limited Time Offer</h1>
+            <h1>Limited Time Offer  bla bla bla</h1>
     
             <h2>Crispy & Tender Meals </h1>
             <p> let your taste buds do the talking in our website</p>
