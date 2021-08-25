@@ -1,0 +1,235 @@
+.image{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    font-family: "Montserrat";
+}
+
+body{
+    background-color: red;
+}
+.name {
+    font-size: 20px;
+}
+
+
+
+.fffs{
+    font-size: 20px;
+}
+.loginbox{
+    width: 650px;
+    height: 800px;
+    background: rgb(190, 188, 188);
+    color: black;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}   
+
+.loginbox h3{
+    margin: 0;
+    padding: 35px 0px 50px 0px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.firstname {
+position: relative;
+left: 3px;
+top: -37px;
+line-height: 30px;
+padding: 0 22px;
+width: 48%;
+font-size: 16px;
+}
+
+.lastname{
+position: relative;
+left: 270px;
+top: -71px;
+line-height: 30px;
+padding: 0 22px;
+font-size: 16px;
+}
+
+.sizelabel{
+position: relative;
+left: 85px;
+top: -45px; 
+text-transform: capitalize;
+font-size: 14px;
+}
+
+.size{
+    position: relative;
+    left: 310px;
+    top: -73px;
+    line-height: 30px;
+    padding: 0 22px;
+    
+    font-size: 16px;
+}
+.firstlabel{
+position: relative;
+left: 3px;
+top: -45px;
+text-transform: capitalize;
+font-size: 14px;
+}
+
+.lastlabel{
+position: relative;
+left: 42px;
+top: -45px;
+text-transform: capitalize;
+font-size: 14px;
+
+}
+
+.company{
+    position: relative;
+        left: 5px;
+        top: -37px;
+        width: 280px;
+        line-height: 30px;
+        
+        padding: 0 22px;
+        font-size: 16px;
+}
+
+.companylabel{
+    position: relative;
+left: -280px;
+top: -10px;
+text-transform: capitalize;
+
+font-size: 14px;
+}
+.email{
+
+        position: relative;
+        left: 5px;
+        top: -7px;
+        width: 90%;
+        height: 20%;
+        line-height: 30px;
+        padding: 0 22px;
+        font-size: 16px;
+        
+}
+
+.code{
+
+        position: relative;
+        left: 100px;
+        top: -57px;
+        width: 95px;
+        line-height: 30px;
+        padding: 0 22px;
+        font-size: 16px;
+        
+}
+
+.number{
+    
+    position: relative;
+    left: 50px;
+    top: -57px;
+    width: 260px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+
+.Location{
+    position: relative;
+    left: 100px;
+    top: -35px;
+    width: 480px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+
+}
+
+.area-code{
+    
+    position: relative;
+    left: 5px;
+    top: -30px;
+    width: 95px;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+.phone-number{
+    position: relative;
+    left: -210px;
+    top: -4px;
+    width: 95px;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+.option{
+    position: relative;
+    left: 5px;
+    top: -30px;
+    width: 432px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+    outline: none;
+    overflow: hidden;
+}
+
+.option option{
+    font-size: 10px;
+}
+
+.customer{
+    margin-left: 25px;
+    color: black;
+    font-size: 20px;
+}
+
+.radio{
+    display: inline-block;
+    padding-right: 70px;
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 15px;
+    color: black;
+}
+
+.radio input{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    outline: none;
+}
+
+.ff{
+    background-color: rgba(247, 5, 5, 0.911);
+    display: block;
+    margin: 20px 10px 10px 120px;
+    border-radius: 30px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 5px 105px;
+    outline: none;
+    color: black;
+    height: 40px;
+    cursor: pointer;
+    transition: 0.25px;
+}
+
+.ff:hover{
+    background-color: greenyellow;
+}
