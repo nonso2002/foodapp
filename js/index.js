@@ -10,7 +10,8 @@ $(document).ready(function(){
     // });
 
     $.ajax({
-        url:"https://unboxng.herokuapp.com",
+        // url:"https://unboxng.herokuapp.com",
+        url:"https://sharp-foodie-backend.herokuapp.com/",
         method:"GET",
         async:false,
         success:function(data){ 
